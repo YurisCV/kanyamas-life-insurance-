@@ -24,7 +24,8 @@ const Home = () => {
           <p>{t('affordable_rates')}</p>
         </div>
         <div className="gotome">
-            <
+            <h2>{t('meet')}</h2>
+            <p>{t('affordable_rates')}</p>
         </div>
       </div>
     </div>

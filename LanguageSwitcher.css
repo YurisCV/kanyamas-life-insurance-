@@ -1,0 +1,13 @@
+/* src/components/LanguageSwitcher.css */
+.language-switcher {
+  position: absolute;
+  right: 20px; /* Adjust as needed */
+  top: 20px; /* Adjust as needed */
+}
+
+.language-switcher select {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
